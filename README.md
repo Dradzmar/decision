@@ -3,6 +3,9 @@
 ## Project setup
 ```
 npm install
+
+to enable firebase and correct setup,  you should rename ".example-env" to simple ".env"
+
 ```
 
 ### Compiles and hot-reloads for development
